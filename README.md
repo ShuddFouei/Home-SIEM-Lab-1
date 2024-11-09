@@ -1,5 +1,5 @@
 # Home-SIEM-Lab-1
-Homelab utilizing Wazuh for SIEM and EDR, Kali for attack, and fake endpoints
+Homelab utilizing Wazuh for SIEM and EDR, Kali for attack, and VM endpoints
 
 This repository serves to document the creation of this lab for future iterations and fast setup, as well as explore alternative options for software utilized. 
 
